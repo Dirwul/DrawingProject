@@ -26,17 +26,17 @@
 ***
 ## ЛР 1
 ### **[Task 1](src/main/java/com/example/drawingproject/LR1/Task1_1.java)**
-
+<br>
 
 ### **[Task 2](src/main/java/com/example/drawingproject/LR1/Task1_2.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/1_2.png)
-
+<br>
 
 ### **[Task 3](src/main/java/com/example/drawingproject/LR1/Task1_3.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/1_3.png)
-
+<br>
 
 ### **[Task 4](src/main/java/com/example/drawingproject/LR1/Task1_4.java)**
 
@@ -46,27 +46,27 @@
 ### **[Task 1](src/main/java/com/example/drawingproject/LR2/Task2_1.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/2_1.png)
-
+<br>
 
 ### **[Task 2](src/main/java/com/example/drawingproject/LR2/Task2_2.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/2_2.png)
-
+<br>
 
 ### **[Task 3](src/main/java/com/example/drawingproject/LR2/Task2_3.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/2_3.png)
-
+<br>
 
 ### **[Task 4](src/main/java/com/example/drawingproject/LR2/Task2_4.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/2_4.png)
-
+<br>
 
 ### **[Task 5](src/main/java/com/example/drawingproject/LR2/Task2_5.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/2_5.png)
-
+<br>
 
 ### **[Task 6](src/main/java/com/example/drawingproject/LR2/Task2_6.java)**
 
@@ -77,7 +77,7 @@
 ### **[Task 1](src/main/java/com/example/drawingproject/LR3/Task3_1.java)**
 
 ![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/3_1.png)
-
+<br>
 
 ### **[Task 2](src/main/java/com/example/drawingproject/LR3/Task3_2.java)**
 
