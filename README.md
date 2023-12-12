@@ -30,7 +30,7 @@
 
 *[Task 2](src/main/java/com/example/drawingproject/LR1/Task1_2.java)*
 
-![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/1_2.png)
+![Result image](https://github.com/Dirwul/DrawingProject/blob/main/src/main/resources/images/1_2.png|width=300)
 
 
 *[Task 3](src/main/java/com/example/drawingproject/LR1/Task1_3.java)*
