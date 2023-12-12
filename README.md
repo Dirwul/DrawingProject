@@ -23,6 +23,14 @@
 Так же все поля структур являются *package-private (default)* для сокращения кода непосредственно внутри этих классов.
 
 Класс *[Task](src/main/java/com/example/drawingproject/Task.java)* использовался как темплейт для новых заданий.
+<br>
+
+
+### Ссылки:
+- [ЛР 1](https://github.com/Dirwul/DrawingProject#лр-1)
+- [ЛР 2](https://github.com/Dirwul/DrawingProject#лр-2)
+- [ЛР 3](https://github.com/Dirwul/DrawingProject#лр-3)
+- [ЛР 4](https://github.com/Dirwul/DrawingProject#лр-4)
 ***
 ## ЛР 1
 ### **[Task 1](src/main/java/com/example/drawingproject/LR1/Task1_1.java)**
